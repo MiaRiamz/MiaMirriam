@@ -1,4 +1,11 @@
 
+# GROUP MEMBERS:
+# Nabiryo Miriam,
+# Enock,
+# Ashraf 
+# and Terry
+
+
 class Author:
     def __init__(self, name, birthdate, nationality):
      self.name = name
