@@ -1,9 +1,10 @@
 
 # GROUP MEMBERS:
 # Nabiryo Miriam,
-# Enock,
-# Ashraf 
-# and Terry
+# Ssemwogerere Enock,
+# Kaitesi Ritah,
+# Ashraf,
+# Muwayire Terry,
 
 
 class Author:
